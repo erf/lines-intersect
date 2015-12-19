@@ -7,7 +7,7 @@ Check if two line segments intersect
 
 # Usage
 ```
-assert(pu.intersect(0,0, 1,1, 0,1, 1,0)===true);
+assert(intersect(0,0, 1,1, 0,1, 1,0)===true);
 ```
 
 # Tests
