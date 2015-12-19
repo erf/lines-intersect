@@ -1,6 +1,6 @@
 {
-  "name": "line-segments-intersect",
-  "description": "Check if two line segments intersect",
+  "name": "lines-intersect",
+  "description": "Check if line segments intersect",
   "main": "index.js",
   "authors": [
     "Erlend Fagerheim"
@@ -15,7 +15,7 @@
     "geometry",
     "geo"
   ],
-  "homepage": "https://github.com/erf/line-segements-intersect",
+  "homepage": "https://github.com/erf/lines-intersect",
   "moduleType": [
     "globals",
     "node"

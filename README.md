@@ -1,9 +1,9 @@
-# line-segments-intersect
+# lines-intersect
 
-Check if two line segments intersect
+Check if segments intersect
 
 # Install
-`npm install line-segments-intersect`
+`npm install lines-intersect`
 
 # Usage
 ```

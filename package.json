@@ -1,10 +1,10 @@
 {
-  "name": "line-segments-intersect",
+  "name": "lines-intersect",
   "version": "1.0.0",
   "description": "Check if line segments intersect",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erf/line-segments-intersect.git"
+    "url": "https://github.com/erf/lines-intersect.git"
   },
   "main": "index.js",
   "scripts": {
