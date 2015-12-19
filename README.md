@@ -3,7 +3,8 @@
 Check if segments intersect
 
 # Install
-`npm install lines-intersect`
+* [npm](http://npmjs.com/): `npm install lines-intersect`
+* [Bower](http://bower.io/): `bower install lines-intersect`
 
 # Usage
 ```
