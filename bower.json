@@ -1,0 +1,30 @@
+{
+  "name": "line-segments-intersect",
+  "description": "Check if two line segments intersect",
+  "main": "index.js",
+  "authors": [
+    "Erlend Fagerheim"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "line",
+    "lines",
+    "segment",
+    "segments",
+    "intersect",
+    "geometry",
+    "geo"
+  ],
+  "homepage": "https://github.com/erf/line-segements-intersect",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

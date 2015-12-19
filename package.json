@@ -1,0 +1,27 @@
+{
+  "name": "line-segments-intersect",
+  "version": "1.0.0",
+  "description": "Check if line segments intersect",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erf/line-segments-intersect.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "line",
+    "lines",
+    "segment",
+    "segments",
+    "intersect",
+    "geometry",
+    "geo"
+  ],
+  "author": "Erlend Fagerheim",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.3.4"
+  }
+}
