@@ -3,7 +3,7 @@
 var assert      = require('assert');
 var intersect   = require('../index');
 
-describe('line-segments-intersect', function () {
+describe('lines-intersect', function () {
 
     it('line segments intersect', function () {
         assert(intersect(0,0, 1,0, 0.5,0.5, 0.5,-0.5)===true);
